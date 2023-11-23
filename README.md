@@ -18,6 +18,6 @@ Your task will be taking on the role of a social media analyst responsible for c
 
 In this project, we'll use data from Twitter; however, to keep this project unique and open-ended, please feel free to choose whichever major social media website you'd prefer.
 
-A
+
 
 
