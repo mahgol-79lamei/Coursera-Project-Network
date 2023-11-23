@@ -18,21 +18,6 @@ Your task will be taking on the role of a social media analyst responsible for c
 
 In this project, we'll use data from Twitter; however, to keep this project unique and open-ended, please feel free to choose whichever major social media website you'd prefer.
 
-After you perform your analysis, you will share your findings.
+A
 
-See Example Projects:
 
-Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python
-A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook
-A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Check out these helpful resources:
-
-Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html
-
-Seaborn examples: https://seaborn.pydata.org/examples/index.html
-
-NumPy tutorial: https://numpy.org/doc/stable/user/quickstart.html
-
-Pandas user guide: https://pandas.pydata.org/docs/user_guide/10min.html
